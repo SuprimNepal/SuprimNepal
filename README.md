@@ -1,224 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=260&section=header&text=Hey%2C%20I'm%20YOUR%20NAME&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Cloud%20%E2%98%81%EF%B8%8F%20%C2%B7%20Python%20%F0%9F%90%8D%20%C2%B7%20SQL%20%F0%9F%97%84%EF%B8%8F%20%C2%B7%20Web%20%F0%9F%8C%90&descSize=20&descAlignY=58" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Comic header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Cloud+Computing+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%90%8D;Database+Wizard+with+SQL+%F0%9F%97%84%EF%B8%8F;Web+Developer+in+the+Making+%F0%9F%8C%90;Turning+coffee+into+scalable+systems+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=34&duration=2800&pause=700&color=E63946&center=true&vCenter=true&width=800&height=70&lines=POW!+Cloud+Computing+Hero;ZOOM!+Python+Powered;BAM!+SQL+Database+Wizard;KAPOW!+Web+Dev+Sidekick;WHAM!+Coffee+%E2%86%92+Code+%E2%86%92+Cloud" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=f59e0b&labelColor=1e1b4b" alt="followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=ec4899&labelColor=1e1b4b" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=READERS&color=E63946&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=SIDEKICKS&color=FFD166&labelColor=14213D" alt="followers"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&label=STARS&color=3A86FF&labelColor=14213D" alt="stars"/>
+
+<br/><br/>
+
+<img src="assets/hero.svg" width="100%" alt="Animated hero panel"/>
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<div align="center">
 
-## 👋 &nbsp;About Me
+## 📖 CHAPTER 1: THE ORIGIN STORY
+
+</div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```python
-class Developer:
+class ComicHero:
     def __init__(self):
         self.name     = "YOUR NAME"
-        self.location = "Nepal 🇳🇵"
-        self.focus    = ["Cloud Computing", "Python", "SQL"]
-        self.also     = ["Web Development"]
-        self.learning = "Building things that scale"
-        self.fun_fact = "I debug with coffee ☕ and fix with Google"
+        self.origin   = "Nepal 🇳🇵"
+        self.powers   = ["Cloud Computing", "Python", "SQL"]
+        self.sidekick = "Web Development"
+        self.weakness = "Empty coffee cups ☕"
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome 🚀")
+    def battle_cry(self):
+        return "Let's build something EPIC! 💥"
 
-me = Developer()
-me.say_hi()
+hero = ComicHero()
+print(hero.battle_cry())
 ```
 
 </td>
-<td width="40%" align="center" valign="middle">
+<td width="42%" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding-cat.gif" width="260" alt="coding"/>
+> 💬 **NARRATOR:**
+> *"By day, a curious developer. By night, a cloud architect, deploying heroic infrastructure, taming wild databases and writing Python scripts that save the day..."*
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## 🚀 &nbsp;Core Skills
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
+
+## ⚡ CHAPTER 2: SUPERPOWERS
+
+<img src="assets/skills.svg" width="100%" alt="Skill panels"/>
+
+<br/>
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-### ☁️ Cloud Computing
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Infrastructure-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deployment-ec4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scalability-f59e0b?style=flat-square"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🐍 Python
-<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,pandas,numpy&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Automation-3b82f6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-10b981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scripting-f59e0b?style=flat-square"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🗄️ SQL & Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" /><br/><br/>
-<img src="https://img.shields.io/badge/Queries-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Design-8b5cf6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Optimization-ec4899?style=flat-square"/>
-
-</td>
+<td align="center" width="33%"><b>☁️ CLOUD</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,azure,gcp" /></td>
+<td align="center" width="33%"><b>🐍 PYTHON</b><br/><br/><img src="https://skillicons.dev/icons?i=python" /></td>
+<td align="center" width="33%"><b>🗄️ SQL</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,postgres" /></td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-### 📊 &nbsp;Proficiency
+### 🌐 SIDE QUEST GEAR
 
-<div align="center">
-
-| Skill | Level |
-|:------|:------|
-| ☁️ **Cloud Computing** | ![](https://progress-bar.xyz/80/?title=&width=300&color=8b5cf6&suffix=%25) |
-| 🐍 **Python** | ![](https://progress-bar.xyz/85/?title=&width=300&color=3b82f6&suffix=%25) |
-| 🗄️ **SQL** | ![](https://progress-bar.xyz/82/?title=&width=300&color=06b6d4&suffix=%25) |
-| 🌐 **Web Development** | ![](https://progress-bar.xyz/65/?title=&width=300&color=f59e0b&suffix=%25) |
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## 🌐 &nbsp;Extra Skills: Web Development
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&theme=dark" />
+## 📊 CHAPTER 3: BATTLE STATS
 
-</div>
-
-<br/>
-
-## 🧰 &nbsp;Tech Toolbox
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-F29111?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=FFF8E1&title_color=E63946&icon_color=3A86FF&text_color=14213D&border_color=14213D&ring_color=E63946&include_all_commits=true&count_private=true&border_radius=12" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=FFF8E1&title_color=E63946&text_color=14213D&border_color=14213D&langs_count=8&border_radius=12" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## 📈 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9&ring_color=ec4899&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=ec4899&fire=f59e0b&currStreakLabel=a78bfa" height="170"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=FFF8E1&border=14213D&stroke=14213D&ring=E63946&fire=FF9F1C&currStreakNum=14213D&currStreakLabel=E63946&sideNums=14213D&sideLabels=3A86FF&dates=14213D&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight" height="170"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFF8E1&color=14213D&line=E63946&point=3A86FF&area=true&area_color=FFD166&title_color=E63946&hide_border=false&border_radius=12" width="100%"/>
 
 <br/>
 
-## 📊 &nbsp;Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=ec4899&point=f59e0b&area=true&area_color=8b5cf6&hide_border=true&radius=10" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## 🎯 &nbsp;Currently
-
-- 🔭 Building projects that combine **Python + Cloud + SQL**
-- 🌱 Leveling up my **cloud architecture** and **database design**
-- 🌐 Exploring **modern web development** on the side
-- 💬 Ask me about **Python, SQL, or cloud basics**
-- ⚡ Always open to collaboration on cool projects
-
-<br/>
-
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&margin-w=10&row=1&column=7&no-frame=false" width="100%"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+written+for+machines.%22;%22The+cloud+is+just+someone+else's+computer+%E2%80%94+make+it+yours.%22;%22SELECT+*+FROM+dreams+WHERE+effort+%3E+0%3B%22" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=140&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
+## 🎯 CHAPTER 4: CURRENT MISSIONS
+
+</div>
+
+| 💥 | MISSION |
+|:--:|:--------|
+| 🔭 | Building projects that mix **Python + Cloud + SQL** |
+| 🌱 | Leveling up **cloud architecture** and **database design** |
+| 🌐 | Exploring **web development** as a side quest |
+| 💬 | Ask me about **Python, SQL, or cloud basics** |
+| 🤝 | Open to team-ups on cool projects |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<div align="center">
+
+## 📡 CHAPTER 5: SEND A SIGNAL
+
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-14213D?style=for-the-badge&logo=github&logoColor=FFD166"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-3A86FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FFD166?style=for-the-badge&logo=googlechrome&logoColor=14213D"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=22&duration=4000&pause=1000&color=3A86FF&center=true&vCenter=true&width=700&lines=%22With+great+code+comes+great+uptime.%22;%22SELECT+*+FROM+heroes+WHERE+name+%3D+'me'%3B%22;%22The+cloud+is+my+secret+lair.%22" />
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="Footer"/>
+
+</div>
